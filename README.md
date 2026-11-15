@@ -1,12 +1,12 @@
-cla
+
 # Library Management System (Java)
 
 A console-based Library Management System written in Java.
 
 
 ## Authors
-- Student 1: AHMED FARDIN (202502010015)
-- Student 2:  RUDER SHARMA(202501010273)
+- Student 1: AHMED FARDIN ( 202502010015) DIT 
+- Student 2:  RUDER SHARMA  (202501010273) DIT
 
 ## Features
 - Add books, magazines and DVDs
